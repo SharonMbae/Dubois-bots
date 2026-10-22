@@ -1,10 +1,10 @@
-# duruma-bot
+# dubois-bots
 
 Multi-tenant WhatsApp bot platform for businesses. Each business gets its own
 branding (name, greeting, catalog) while sharing one codebase and webhook.
 
 Internal/dev name only — end customers only ever see their own business's name
-in WhatsApp, never "duruma-bot".
+in WhatsApp, never "dubois-bots".
 
 ## Current features
 
