@@ -1,0 +1,11 @@
+{
+  "id": "sample-business",
+  "displayName": "Sample Business",
+  "greeting": "Welcome to Sample Business! Reply 1 for Orders, 2 for Support.",
+  "logoUrl": "",
+  "phoneNumberId": "REPLACE_WITH_WHATSAPP_PHONE_NUMBER_ID",
+  "accessTokenEnv": "SAMPLE_BUSINESS_WA_TOKEN",
+  "catalog": [
+    { "sku": "ITEM-1", "name": "Example Item", "priceKes": 500 }
+  ]
+}
